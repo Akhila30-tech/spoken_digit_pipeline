@@ -22,7 +22,8 @@ This project builds a lightweight prototype to classify spoken digits (0–9) us
 
 ## Results
 - Accuracy: 0.9630  
-- Confusion matrix: [include image or text table]  
+- Confusion matrix: <img width="408" height="289" alt="image" src="https://github.com/user-attachments/assets/1aca5776-0149-4c24-8e9c-ba4c8a319885" />
+ 
 
 ## Usage
 ```bash
