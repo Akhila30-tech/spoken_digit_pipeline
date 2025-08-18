@@ -1,0 +1,7 @@
+{
+  "sr": 16000,
+  "audio_col": null,
+  "path_col": "path",
+  "label_col": "label",
+  "feature": "mfcc+delta+chroma"
+}
