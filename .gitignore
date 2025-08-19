@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+
+# Data
+data/
+
+# Models (optional: if you want to keep them local, not on GitHub)
+models/
+
+# OS files
+.DS_Store
+Thumbs.db
