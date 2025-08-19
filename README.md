@@ -18,7 +18,7 @@ This project builds a lightweight prototype to classify spoken digits (0–9) us
 
 4. **Prediction**:  
    - `predict.py` predicts the digit from any new WAV file.  
-   - Optional `predict_live.py` can be used for real-time predictions (microphone input).
+   - Optional `predict_live.py` can be used for real-time predictions (microphone input not implemented in this submission).
 
 ## Results
 - Accuracy: 0.9630  
